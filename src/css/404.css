@@ -1,0 +1,35 @@
+body {
+    background-color: #fff0f0;
+    color: #ff6e6e;
+    font-family: "Muli", sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .noMatchFull-height {
+    height: 100vh;
+  }
+  
+  .noMatchFlex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .noMatchPosition-r {
+    position: relative;
+  }
+  
+  .noMatchCode {
+    border-right: 3px solid;
+    font-size: 55px;
+    padding: 0 10px 0 10px;
+    text-align: center;
+  }
+  
+  .noMatchmessage {
+    font-size: 40px;
+    text-align: center;
+  }
+  
